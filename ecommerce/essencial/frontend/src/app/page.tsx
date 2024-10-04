@@ -1,4 +1,4 @@
-import ProdutoItem from "@/components/produto/produtoItem";
+import ProdutoItem from "@/components/produto/ProdutoItem";
 import { produtos } from "@/core";
 
 export default function Home() {
